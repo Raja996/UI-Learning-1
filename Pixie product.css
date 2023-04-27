@@ -1,0 +1,508 @@
+.child1{
+    border: 1px solid rgba(65, 105, 225, 0.959);
+    background-color: rgba(65, 105, 225, 0.959);
+    width: 100%;
+    height: 40px;
+}
+.div1{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.child2{
+    border: 1px solid white;
+    width: 100%;
+    height: 115px;
+}
+.hidden1{
+    border: none;
+    width: 200px;
+    height: 60px;
+    margin-left: 560px;
+}
+.div2{
+    margin: 10px;
+    float: left;
+}
+.div3{
+    float: left;
+    color:rgba(65, 105, 225, 0.959);
+    margin: 10px 0 0 5px;
+}
+.hidden2{
+    border: none;
+    width: 500px;
+    height: 50px;
+    margin-left: 430px;
+}
+.div4{
+    margin: 25px 0 0 40px;
+    float: left;
+    font-size: 13px;
+}
+span{
+    color:rgba(65, 105, 225, 0.959);   
+}
+.child3 img{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+.div5{
+    border: 1px solid white;
+    background-color: white;
+    width: 380px;
+    height: 300px;
+    position: absolute;
+    margin: 100px;
+}
+.div6{
+    margin: 20px 0 0 20px;
+    font-size: 18px;
+}
+.div7{
+    border: 2px solid rgba(65, 105, 225, 0.959);
+    width: 20px;
+    margin:5px 0 0 20px;
+}
+.div8{
+    color: rgba(0, 0, 0, 0.596);
+    margin: 20px 20px 0;
+}
+.div9{
+    border: 1px solid rgba(65, 105, 225, 0.959);
+    background-color: rgba(65, 105, 225, 0.959);
+    width: 160px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 30px 0 0 20px;
+}
+.div10{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: 12px;
+}
+.child4{
+    border: none;
+    width: 100%;
+    height: 420px;
+}
+.hidden3{
+    border: none;
+    width: 230px;
+    height: 50px;
+    margin: 20px 0 0 60px;
+}
+.div11{
+    margin: 5px 0 0 20px;
+    font-size: 18px;
+}
+.hidden4{
+    border: none;
+    width: 1210px;
+    height: 305px;
+    margin: 0px 0 0 60px;
+}
+.div12{
+    border: 1px solid rgba(255, 160, 122, 0.329);
+    width: 260px;
+    height: 280px;
+    margin: 20px;
+    float: left;
+}
+.div13 img{
+    height:200px;
+    width: 220px;
+    margin: 20px 20px 0;
+    object-fit: cover;
+}
+.div14{
+    margin: 10px 0 0 20px;
+}
+.hidden5{
+    border: none;
+    width: 100px;
+    height: 35px;
+    margin: 2px 620px 0;
+}
+.div15{
+    border: 1px solid rgba(65, 105, 225, 0.959) ;
+    background-color: rgba(65, 105, 225, 0.959) ;
+    width: 7px;
+    height: 7px;
+    float: left;
+    margin: 2px 0 0 20px;
+}
+.div16{
+    border: 1px solid rgba(0, 0, 0, 0.082) ;
+    background-color: rgba(0, 0, 0, 0.281) ;
+    width: 7px;
+    height: 7px;
+    float: left;
+    margin: 2px 0 0 15px;
+}
+.child5{
+    border: 1px soild rgba(65, 105, 225, 0.562);
+    background-color: rgba(65, 105, 225, 0.959);
+    width: 100%;
+    height: 280px;
+}
+.hidden6{
+    border:1px solid rgba(65, 105, 225, 0.959);
+    width: 350px;
+    height: 110px;
+    margin: 0px 0 0 500px;
+}
+.div17{
+    border: 2px solid white;
+    width: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+.div18{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0px;
+}
+.hidden7{
+    border:none;
+    width: 600px;
+    height: 160px;
+    margin: 0px 0 0 370px;
+}
+.div19{
+    color: white;
+    text-align: center;
+}
+.div20{
+    border: 1px solid white;
+    background-color:rgba(65, 105, 225, 0.959) ;
+    width: 240px;
+    height: 30px;
+    margin-top: 15px;
+    float: left;
+}
+::placeholder{
+    color: white;
+}
+.div21{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    margin: 15px 0 0 15px;
+    float: left;
+}
+.div22{
+    text-align: center;
+    color: rgba(65, 105, 225, 0.959);
+    font-size: 10px;
+}
+.child6{
+    border: none;
+    width: 100%;
+    height: 180px;
+}
+.hidden8{
+    border:none;
+    width: 600px;
+    height: 50px;
+    margin-left: 380px;
+}
+.div23{
+    color: rgba(0, 0, 0, 0.527);
+    margin: 20px 0 0 40px;
+    float: left;
+    font-size: 12px;
+}
+.hidden9{
+    border: none;
+    width: 250px;
+    height: 50px;
+    margin-left: 520px;
+}
+.div24{
+    border: 1px solid rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.527);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin: 10px 0 0 25px;
+    float: left;
+}
+.div25{
+    color:rgba(0, 0, 0, 0.527) ;
+    font-size: 11px;
+    text-align: center;
+    margin-top: 10px;
+}
+.div26{
+    font-size:36px;
+    color:#0077b3
+}
+.div27{
+    font-size:20px;
+    color: white;
+    margin-top: 5px;
+}
+
+@media screen and (min-width: 375px) and (max-width: 667px){
+    .child1{
+        border: 1px solid rgba(65, 105, 225, 0.959);
+        background-color: rgba(65, 105, 225, 0.959);
+        width: 84%;
+        height: 30px;
+    }
+    .div1{
+        color: white;
+        text-align: center;
+        margin-top: 7px;
+        font-size: 12px;
+    }
+    .child2{
+        border: 1px solid white;
+        width: 84%;
+        height: 100px;
+    }
+    .hidden1{
+        border: 1px solid red;
+        width: 120px;
+        height: 40px;
+        margin-left: 85px;
+    }
+    .div2{
+        margin: 10px;
+        float: left;
+    }
+    .div26{
+        font-size:20px;
+        color:#0077b3
+    }
+    .div3{
+        font-size: 20px;
+        float: left;
+        color:rgba(65, 105, 225, 0.959);
+        margin: 8px 0 0 4px;
+    }
+    .hidden2{
+        border: none;
+        width: 500px;
+        height: 50px;
+        margin-left: 430px;
+    }
+    .div4{
+        margin: 25px 0 0 40px;
+        float: left;
+        font-size: 13px;
+    }
+    span{
+        color:rgba(65, 105, 225, 0.959);   
+    }
+    .child3 img{
+        width: 100%;
+        height: 500px;
+        object-fit: cover;
+    }
+    .div5{
+        border: 1px solid white;
+        background-color: white;
+        width: 380px;
+        height: 300px;
+        position: absolute;
+        margin: 100px;
+    }
+    .div6{
+        margin: 20px 0 0 20px;
+        font-size: 18px;
+    }
+    .div7{
+        border: 2px solid rgba(65, 105, 225, 0.959);
+        width: 20px;
+        margin:5px 0 0 20px;
+    }
+    .div8{
+        color: rgba(0, 0, 0, 0.596);
+        margin: 20px 20px 0;
+    }
+    .div9{
+        border: 1px solid rgba(65, 105, 225, 0.959);
+        background-color: rgba(65, 105, 225, 0.959);
+        width: 160px;
+        height: 40px;
+        border-radius: 5px;
+        margin: 30px 0 0 20px;
+    }
+    .div10{
+        text-align: center;
+        color: white;
+        font-size: 15px;
+        margin-top: 12px;
+    }
+    .child4{
+        border: none;
+        width: 100%;
+        height: 420px;
+    }
+    .hidden3{
+        border: none;
+        width: 230px;
+        height: 50px;
+        margin: 20px 0 0 60px;
+    }
+    .div11{
+        margin: 5px 0 0 20px;
+        font-size: 18px;
+    }
+    .hidden4{
+        border: none;
+        width: 1210px;
+        height: 305px;
+        margin: 0px 0 0 60px;
+    }
+    .div12{
+        border: 1px solid rgba(255, 160, 122, 0.329);
+        width: 260px;
+        height: 280px;
+        margin: 20px;
+        float: left;
+    }
+    .div13 img{
+        height:200px;
+        width: 220px;
+        margin: 20px 20px 0;
+        object-fit: cover;
+    }
+    .div14{
+        margin: 10px 0 0 20px;
+    }
+    .hidden5{
+        border: none;
+        width: 100px;
+        height: 35px;
+        margin: 2px 620px 0;
+    }
+    .div15{
+        border: 1px solid rgba(65, 105, 225, 0.959) ;
+        background-color: rgba(65, 105, 225, 0.959) ;
+        width: 7px;
+        height: 7px;
+        float: left;
+        margin: 2px 0 0 20px;
+    }
+    .div16{
+        border: 1px solid rgba(0, 0, 0, 0.082) ;
+        background-color: rgba(0, 0, 0, 0.281) ;
+        width: 7px;
+        height: 7px;
+        float: left;
+        margin: 2px 0 0 15px;
+    }
+    .child5{
+        border: 1px soild rgba(65, 105, 225, 0.562);
+        background-color: rgba(65, 105, 225, 0.959);
+        width: 100%;
+        height: 280px;
+    }
+    .hidden6{
+        border:1px solid rgba(65, 105, 225, 0.959);
+        width: 350px;
+        height: 110px;
+        margin: 0px 0 0 500px;
+    }
+    .div17{
+        border: 2px solid white;
+        width: 20px;
+        text-align: center;
+        margin-top: 40px;
+    }
+    .div18{
+        color: white;
+        text-align: center;
+        font-size: 20px;
+        margin-top: 0px;
+    }
+    .hidden7{
+        border:none;
+        width: 600px;
+        height: 160px;
+        margin: 0px 0 0 370px;
+    }
+    .div19{
+        color: white;
+        text-align: center;
+    }
+    .div20{
+        border: 1px solid white;
+        background-color:rgba(65, 105, 225, 0.959) ;
+        width: 240px;
+        height: 30px;
+        margin-top: 15px;
+        float: left;
+    }
+    ::placeholder{
+        color: white;
+    }
+    .div21{
+        border: 1px solid white;
+        background-color: white;
+        border-radius: 5px;
+        width: 150px;
+        height: 30px;
+        margin: 15px 0 0 15px;
+        float: left;
+    }
+    .div22{
+        text-align: center;
+        color: rgba(65, 105, 225, 0.959);
+        font-size: 10px;
+    }
+    .child6{
+        border: none;
+        width: 100%;
+        height: 180px;
+    }
+    .hidden8{
+        border:none;
+        width: 600px;
+        height: 50px;
+        margin-left: 380px;
+    }
+    .div23{
+        color: rgba(0, 0, 0, 0.527);
+        margin: 20px 0 0 40px;
+        float: left;
+        font-size: 12px;
+    }
+    .hidden9{
+        border: none;
+        width: 250px;
+        height: 50px;
+        margin-left: 520px;
+    }
+    .div24{
+        border: 1px solid rgba(0, 0, 0, 0);
+        background-color: rgba(0, 0, 0, 0.527);
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        margin: 10px 0 0 25px;
+        float: left;
+    }
+    .div25{
+        color:rgba(0, 0, 0, 0.527) ;
+        font-size: 11px;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .div27{
+        font-size:20px;
+        color: white;
+        margin-top: 5px;
+    }
+}
+
